@@ -1,0 +1,11 @@
+ID,Income($),Credit Score,Previous Defaults,Loan Amount($),Approved(Yes/No)
+1,50000,750,No,20000,Yes
+2,40000,620,Yes,15000,No
+3,60000,800,No,25000,Yes
+4,30000,500,Yes,10000,No
+5,70000,780,No,30000,Yes
+6,45000,650,No,18000,Yes
+7,35000,550,Yes,12000,No
+8,80000,820,No,40000,Yes
+9,25000,480,Yes,8000,No
+10,55000,730,No,22000,Yes
